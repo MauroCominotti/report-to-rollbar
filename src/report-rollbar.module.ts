@@ -3,6 +3,7 @@ import { ReportRollbarService } from './report-rollbar.service'
 
 @Global()
 @Module({
-  providers: [ReportRollbarService]
+  providers: [ReportRollbarService],
+  exports: [ReportRollbarService],
 })
 export class ReportRollbarModule {}
