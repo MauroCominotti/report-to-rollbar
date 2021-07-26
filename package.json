@@ -29,9 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsplus/nestjs-package-starter"
+    "url": "https://github.com/MauroCominotti/report-to-rollbar"
   },
-  "bugs": "https://github.com/nestjsplus/nestjs-package-starter",
+  "bugs": "https://github.com/MauroCominotti/report-to-rollbar",
   "peerDependencies": {
     "@nestjs/common": "^6.0.0"
   },
