@@ -1,6 +1,6 @@
 {
   "name": "report-to-rollbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rollbar Module for NestJS",
   "author": "Mauro Cominotti <maurocominotti@hotmail.com>",
   "license": "MIT",
